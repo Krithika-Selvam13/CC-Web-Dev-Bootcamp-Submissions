@@ -120,7 +120,7 @@ git push origin main
 Before every new assignment, sync your repo:
 
 ```
-git remote add upstream https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions.git
+git remote add upstream https://github.com/kriidevx/CC-Web-Dev-Bootcamp-Submissions.git
 git pull upstream main
 git push origin main
 ```
